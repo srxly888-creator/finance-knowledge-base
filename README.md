@@ -23,6 +23,8 @@ finance-knowledge-base/
 - AI 与创业、硬科技、投资趋势
 - 已下载字幕：5 个视频（176 KB）
 - 位置：`youtube-subtitles/bestpartners/`
+- 详情：`youtube-subtitles/bestpartners/下载清单.md`
+- 字幕检查报告：`youtube-subtitles/bestpartners/字幕检查报告.md`
 
 ## 🎯 内容分类
 
@@ -36,6 +38,11 @@ finance-knowledge-base/
 - 📝 字幕文件（.srt）
 - 📚 书籍笔记（.md）
 - 📊 研究报告（.md）
+
+### 按字幕语言
+- 当前已收录：简体中文 `zh-Hans`
+- 公开可见源字幕：中文 `zh`
+- 可用翻译轨道：简体中文、繁体中文、英文及其他语言
 
 ## 🔄 更新日志
 
